@@ -1,5 +1,6 @@
 ---
 title: Tech Stack Advisor
+<<<<<<< HEAD
 emoji: 🧠
 colorFrom: indigo
 colorTo: pink
@@ -30,3 +31,15 @@ Created by \[Gourav Shah](https://www.linkedin.com/in/gouravshah) as part of the
 ---
 
 > 🛠 Happy shipping, DevOps and MLOps builders!
+=======
+emoji: 🚀
+colorFrom: red
+colorTo: gray
+sdk: docker
+pinned: false
+license: mit
+short_description: Dockerized FastAPI application with CI/CD
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+>>>>>>> 6c54cd688682823bfbd27bf2273768940bd57aee
