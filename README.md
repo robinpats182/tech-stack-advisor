@@ -4,10 +4,8 @@ emoji: 🧠
 colorFrom: indigo
 colorTo: pink
 sdk: docker
-app_file: app.py
+app_port: 7860
 pinned: false
-license: apache-2.0
-duplicable: true
 ---
 
 # 🧠 Tech Stack Advisor – ML App (with Docker & Hugging Face Deployment)
